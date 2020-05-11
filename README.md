@@ -8,7 +8,7 @@ Awesome Android library to use the [Font Awesome](https://fontawesome.com/icons)
 
 Tutorial
 -------------
-[Here](https://www.androhive.tech/2020/05/how-to-use-font-awesome-icons-in.html/) you can find detailed explain of the library and the usage of it considering multiple scenarios. Or you can refer this [example](https://github.com/vishaldroidx/Android-Font-Awesome) project.
+[Here](https://www.androhive.tech/2020/05/how-to-use-font-awesome-icons-in.html) you can find detailed explain of the library and the usage of it considering multiple scenarios. Or you can refer this [example](https://github.com/vishaldroidx/Android-Font-Awesome) project.
 
 How to Use
 -------------
