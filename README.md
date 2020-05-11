@@ -8,7 +8,7 @@ Awesome Android library to use the [Font Awesome](https://fontawesome.com/icons)
 
 Tutorial
 -------------
-[Here](https://www.androidhive.info/2019/03/how-to-use-font-awesome-icons-in-android/) you can find detailed explain of the library and the usage of it considering multiple scenarios. Or you can refer this [example](https://github.com/ravi8x/Android-Font-Awesome/tree/master/example) project.
+[Here](https://www.androhive.tech/2020/05/how-to-use-font-awesome-icons-in.html/) you can find detailed explain of the library and the usage of it considering multiple scenarios. Or you can refer this [example](https://github.com/vishaldroidx/Android-Font-Awesome) project.
 
 How to Use
 -------------
@@ -33,7 +33,7 @@ Font Awesome provides three set of icons **Regular**, **Solid** and **Brand**. A
 Displaying Text Icon: FontTextView
 ----
 To display an icon in xml layout, use the **FontTextView** widget. This class is extended from **TextView**, so all the TextView related properties will apply.
-```java
+``java
 <info.androidhive.fontawesome.FontTextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
